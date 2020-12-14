@@ -10,3 +10,5 @@
   <a href="https://linkedin.com/in/danielfelipeklotz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dklotz" height="20" width="20" /></a>
   <a href="https://instagram.com/daniel_klotz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dklotz" height="20" width="20" /></a>
 </p>
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/d-klotz)](https://github.com/d-klotz)
